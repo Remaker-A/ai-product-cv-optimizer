@@ -1,6 +1,6 @@
 # AI Product CV Optimizer
 
-一个可复用的 Codex Skill，用于优化 AI 产品、AI 产品工程师、AI Agent PM、多模态 / AIGC 产品等方向的简历。它覆盖目标岗位澄清、HR/PM 视角评审、内容深挖、项目取舍、文案改写、版式设计与 PDF 渲染检查。
+一个可复用的 Skill，用于优化 AI 产品、AI 产品工程师、AI Agent PM、多模态 / AIGC 产品等方向的简历。它覆盖目标岗位澄清、HR/PM 视角评审、内容深挖、项目取舍、文案改写、版式设计与 PDF 渲染检查。
 
 ## 适用场景
 
