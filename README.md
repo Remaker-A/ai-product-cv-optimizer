@@ -1,5 +1,7 @@
 # AI Product CV Optimizer
 
+[中文说明](README.zh-CN.md)
+
 A reusable Codex skill for optimizing AI product and AI product engineer resumes with HR/PM review, content discovery, design guidance, and PDF QA.
 
 ## What This Skill Does
