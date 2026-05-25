@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Product CV Optimizer"
+  short_description: "Optimize AI product resumes with reviewer fit."
+  brand_color: "#2F6FE4"
+  default_prompt: "Use $ai-product-cv-optimizer to optimize my AI product resume for a target role and company."

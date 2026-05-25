@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+render_check/
+*_render_check/
+.DS_Store
+Thumbs.db
